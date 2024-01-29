@@ -1,0 +1,8 @@
+---  
+
+
+- hosts: test-host # list of hosts in inventory directory
+
+    roles: # roles directory
+        - myproject     # project directory in roles 
+

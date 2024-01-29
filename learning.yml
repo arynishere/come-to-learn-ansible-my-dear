@@ -1,8 +1,9 @@
 ---  
 
 
-- hosts: test-host # list of hosts in inventory directory
+- hosts: test-host # list of hosts in inventory directory << where going 
 
-    roles: # roles directory
-        - myproject     # project directory in roles 
+  roles: # roles directory
+   - myproject     # project directory in roles  << what doing 
+        
 

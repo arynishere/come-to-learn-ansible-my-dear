@@ -1,0 +1,6 @@
+--diff
+--syntax-check
+--check
+--tags
+--skip-tags
+--step

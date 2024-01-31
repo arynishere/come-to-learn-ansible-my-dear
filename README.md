@@ -4,7 +4,6 @@
 
 
 
-```markdown
 # Ansible Command Line Switches
 
 This repository provides explanations for several useful command line switches in Ansible.

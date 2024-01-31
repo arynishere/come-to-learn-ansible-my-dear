@@ -3,7 +3,6 @@
 
 
 
-Certainly! Here's the text formatted for a `readme.md` file:
 
 ```markdown
 # Ansible Command Line Switches
